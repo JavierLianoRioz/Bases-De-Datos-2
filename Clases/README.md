@@ -13,7 +13,7 @@
     - [x] [Teoría básica](Parcial1/2-MONGODB/1-teoria)
     - [x] [Práctica Básica: Diseño de esquemas](Parcial1/2-MONGODB/2-diseno-esquemas)
     - [x] [Práctica Intermedia: CRUD](Parcial1/2-MONGODB/3-CRUD-operadores)
-    - [x] [Práctica Intermedia: Operadores](Parcial1/2-MONGODB/4-indices-rendimiento)
+    - [x] [Práctica Intermedia: Índices y Rendimiento](Parcial1/2-MONGODB/4-indices-rendimiento)
     - [ ] Práctica Avanzada: Aggregation Framework
     - [ ] Práctica Avanzada: Modelado Avanzado y Patrones de Diseño
     - [ ] Teoría: Optimización y escalabilidad

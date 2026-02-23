@@ -11,14 +11,7 @@ db.cursos.updateOne(
   { nombre: "Bases de Datos" },
   { $pull: { estudiantes: "Carlos" } }
 )
-
 ```
-
-### Justificación
-
-* Eliminación por coincidencia
-* No requiere conocer índice del array
-* Evita reconstrucción manual del array
 
 ## Ejercicio 5 — Actualización en documento embebido
 
@@ -34,12 +27,6 @@ db.pedidos.updateOne(
   { $set: { "cliente.ciudad": "Valencia" } }
 )
 ```
-
-### Justificación
-
-* Uso de notación con punto
-* Acceso a campos anidados
-* Actualización precisa sin modificar otros subcampos
 
 ## Ejercicio 6 — Upsert con contador
 
@@ -66,9 +53,5 @@ db.accesos.updateOne(
 )
 ```
 
-### Justificación
 
-* Uso práctico de upsert
-* Patrón común en sistemas reales
-* Evita lógica adicional en aplicación
 

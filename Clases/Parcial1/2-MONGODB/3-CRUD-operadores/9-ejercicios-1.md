@@ -21,12 +21,6 @@ db.cursos.updateOne(
 )
 ```
 
-### Justificación
-
-* Uso de actualización parcial
-* No se reescribe el documento completo
-* Se modifican múltiples campos en una sola operación
-
 ## Ejercicio 2 — Incremento controlado con \$inc
 
 ### Enunciado
@@ -42,12 +36,6 @@ db.cursos.updateMany(
 )
 ```
 
-### Justificación
-
-* Uso de updateMany
-* Operación atómica por documento
-* Evita leer y recalcular manualmente
-
 ## Ejercicio 3 — Manipulación de arrays con \$push
 
 ### Enunciado
@@ -61,12 +49,5 @@ db.cursos.updateOne(
   { nombre: "Bases de Datos" },
   { $push: { estudiantes: "Laura" } }
 )
-
 ```
-
-### Justificación
-
-* Uso de operador específico para arrays
-* No se sobrescribe el array completo
-* Permite crecimiento dinámico
 
