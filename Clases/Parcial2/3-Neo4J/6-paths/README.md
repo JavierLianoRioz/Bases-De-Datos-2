@@ -10,5 +10,5 @@
 8. [Introduciendo filtrado por nodos intermedios.](8-filtrado.md)
 9. [Introduciendo paths válidos vs inválidos.](9-observacion.md)
 10. [Interpretando resultados.](10-resultados.md)
-11. [Ejercicios.](9-ejercicios.md)
+11. [Ejercicios.](11-ejercicios-2.md)
 
