@@ -1,6 +1,6 @@
 # Contenido
 
-1. [Introducción.](1-introduccion.md)
+1. [Introducción.](900%20Bin/Bases-De-Datos-2/Clases/Parcial1/2-MONGODB/4-indices-rendimiento/1-introduccion.md)
 2. [El Problema de los scans.](2-problema-scans.md)
 3. [Qué son los Índices.](3-indices.md)
 4. [Creación.](4-creacion.md)

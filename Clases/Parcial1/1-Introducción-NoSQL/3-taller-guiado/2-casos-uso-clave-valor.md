@@ -31,5 +31,5 @@ Una base de datos Clave–Valor es la opción natural porque:
 
 Ejemplos: Redis, DynamoDB (modo KV).
 
-![1770305804092](images/2-casos-uso-clave-valor/1770305804092.png)
+![1770305804092](1770305804092.png)
 

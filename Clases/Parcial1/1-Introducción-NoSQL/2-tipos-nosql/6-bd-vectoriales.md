@@ -22,5 +22,5 @@ Casos de uso comunes:
 
 Ejemplos: FAISS, Pinecone, Weaviate.
 
-![1770023401116](images/6-bd-vectoriales/1770023401116.png)
+![1770023401116](1770023401116.png)
 

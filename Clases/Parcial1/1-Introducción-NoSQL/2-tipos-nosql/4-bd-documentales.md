@@ -23,5 +23,5 @@ Casos de uso comunes:
 
 Ejemplos: MongoDB, CouchDB, Firestore.
 
-![1770023124677](images/4-bd-documentales/1770023124677.png)
+![1770023124677](1770023124677.png)
 

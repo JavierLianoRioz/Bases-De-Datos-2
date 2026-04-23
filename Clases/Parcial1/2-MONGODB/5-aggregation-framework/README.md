@@ -1,6 +1,6 @@
 # Contenido
 
-1. [Introducción ¿Por qué necesitamos Aggregation Framework?.](1-introduccion.md)
+1. [Introducción ¿Por qué necesitamos Aggregation Framework?.](900%20Bin/Bases-De-Datos-2/Clases/Parcial1/2-MONGODB/5-aggregation-framework/1-introduccion.md)
 2. [Modelo mental del Aggregation Framework.](2-modelado-mental.md)
 3. [Sintaxis básica y estructura general.](3-sintaxys-estructura.md)
 4. [Dataset de trabajo y preparación mental.](4-dataset-preparacion.md)
@@ -16,5 +16,5 @@
 14. [Consideraciones de memoria y allowDiskUse.](14-memoria-allowdiskuse.md)
 15. [Buenas prácticas profesionales.](15-buenas-practicas.md)
 16. [Ejercicios.](16-ejercicios.md)
-17. [Conclusiones.](17-conclusiones.md)
+17. [Conclusiones.](900%20Bin/Bases-De-Datos-2/Clases/Parcial1/2-MONGODB/5-aggregation-framework/17-conclusiones.md)
 

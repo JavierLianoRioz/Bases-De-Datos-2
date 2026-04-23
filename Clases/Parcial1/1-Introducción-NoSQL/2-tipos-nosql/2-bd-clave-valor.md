@@ -33,5 +33,5 @@ Ejemplos:
 * Redis.
 * DynamoDB en modo clave–valor.
 
-![1770022864943](images/2-bd-clave-valor/1770022864943.png)
+![1770022864943](1770022864943.png)
 

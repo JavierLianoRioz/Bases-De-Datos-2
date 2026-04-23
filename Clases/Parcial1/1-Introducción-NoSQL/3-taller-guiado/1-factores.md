@@ -29,5 +29,5 @@ Aprender a seleccionar el tipo de base de datos NoSQL según las necesidades del
    - Cambios frecuentes → Documental
    - Modelo estable → Columnar o SQL
 
-![1770221361471](images/1-factores/1770221361471.png)
+![1770221361471](1770221361471.png)
 

@@ -7,7 +7,7 @@ Un documento en MongoDB se parece conceptualmente a un objeto JSON.
 
 Ejemplo simple de JSON:
 
-[simple](json/1-json-simple.json)
+[simple](1-json-simple.json)
 
 Este ejemplo muestra:
 
@@ -17,7 +17,7 @@ Este ejemplo muestra:
 
 Ejemplo más complejo:
 
-[complejo](json/2-json-complejo.json)
+[complejo](2-json-complejo.json)
 
 Aquí observamos:
 

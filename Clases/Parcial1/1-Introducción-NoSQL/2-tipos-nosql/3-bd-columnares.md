@@ -30,5 +30,5 @@ Ejemplos:
 * Cassandra.
 * HBase.
 
-![1770022923039](images/3-bd-columnares/1770022923039.png)
+![1770022923039](1770022923039.png)
 

@@ -31,9 +31,9 @@ Ejemplo de valores (no copiar literal, pueden variar):
 
 ### jsons de cursos
 
-* [Curso 1.](json/4-curso-1.json)
-* [Curso 2.](json/5-curso-2.json)
-* [Curso 3.](json/6-curso-3.json)
+* [Curso 1.](4-curso-1.json)
+* [Curso 2.](5-curso-2.json)
+* [Curso 3.](6-curso-3.json)
 
 ### condiciones a ejecutar
 

@@ -4,7 +4,7 @@ Repo de materiales y proyectos de la asignatura **Base de Datos II** del [Grado 
 
 ## Curso *[2025][2026]*
 
-- [Temario](Clases/README.md)
+- [Temario](900%20Bin/Bases-De-Datos-2/Clases/README.md)
   
   - [A día de hoy, deberíamos saber...](aDiaDeHoy.md)
 - Evaluaciones

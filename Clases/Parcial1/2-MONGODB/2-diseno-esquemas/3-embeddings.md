@@ -2,7 +2,7 @@
 
 Consiste en incluir datos relacionados dentro del mismo documento.
 
-[Ejemplo conceptual:](json/1-embeddings.json)
+[Ejemplo conceptual:](1-embeddings.json)
 
 Características:
 

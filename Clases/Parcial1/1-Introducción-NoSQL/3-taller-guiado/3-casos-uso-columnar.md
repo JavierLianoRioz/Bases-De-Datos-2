@@ -53,5 +53,5 @@ Se pregunta:
 
 Ejemplos: Cassandra, HBase, Bigtable.
 
-![1770305817073](images/3-casos-uso-columnar/1770305817073.png)
+![1770305817073](1770305817073.png)
 

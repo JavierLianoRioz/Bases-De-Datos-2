@@ -28,5 +28,5 @@ Una base de datos documental es ideal porque:
 
 Ejemplos: MongoDB, CouchDB.
 
-![1770305849992](images/4-casos-uso-documental/1770305849992.png)
+![1770305849992](1770305849992.png)
 

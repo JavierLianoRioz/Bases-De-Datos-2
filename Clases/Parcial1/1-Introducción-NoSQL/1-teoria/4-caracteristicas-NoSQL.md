@@ -39,5 +39,5 @@ El teorema CAP ayuda a comprender los compromisos que deben hacerse en sistemas 
 
 NoSQL acepta **Partition Tolerance** como obligatoria por lo que los sistemas deben equilibrar consistencia y disponibilidad según sus prioridades.
 
-![1769779024186](images/4-caracteristicas-NoSQL/1769779024186.png)
+![1769779024186](1769779024186.png)
 

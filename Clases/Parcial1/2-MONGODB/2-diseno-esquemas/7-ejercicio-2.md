@@ -28,9 +28,9 @@ Ejemplo conceptual:
 
 ### jsons de pedidos
 
-* [Pedido 1.](json/7-pedido-1.json)
-* [Pedido 2.](json/8-pedido-2.json)
-* [Pedido 3.](json/9-pedido-3.json)
+* [Pedido 1.](7-pedido-1.json)
+* [Pedido 2.](8-pedido-2.json)
+* [Pedido 3.](9-pedido-3.json)
 
 ### condiciones a ejecutar
 

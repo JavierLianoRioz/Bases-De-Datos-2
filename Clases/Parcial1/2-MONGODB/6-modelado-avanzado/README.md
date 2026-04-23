@@ -1,6 +1,6 @@
 # Contenido
 
-1. [Introducción Profundizando en explain() y executionStats.](1-introduccion.md)
+1. [Introducción Profundizando en explain() y executionStats.](900%20Bin/Bases-De-Datos-2/Clases/Parcial1/2-MONGODB/6-modelado-avanzado/1-introduccion.md)
 2. [Covered Queries — Consultas resueltas solo con índice.](2-covered-queries.md)
 3. [Plan Cache y selección automática de índices.](3-plan-cache.md)
 4. [Índices compuestos avanzados y orden estratégico.](4-indices-compuestos.md)

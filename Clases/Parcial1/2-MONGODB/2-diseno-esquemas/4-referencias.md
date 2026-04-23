@@ -26,6 +26,6 @@ Limitaciones:
 
 ### Payloads de ejemplo
 
-* [Pedido](json/2-pedido.json)
-* [Cliente](json/3-cliente.json)
+* [Pedido](2-pedido.json)
+* [Cliente](3-cliente.json)
 

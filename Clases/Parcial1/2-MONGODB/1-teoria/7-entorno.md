@@ -5,7 +5,7 @@ Para trabajar en clase es recomendable levantar MongoDB y una interfaz visual co
 ### Instrucciones básicas para los estudiantes:
 
 1. Crear un directorio.
-2. Guardar el archivo como [docker-compose.yml](docker-compose/docker-compose.yml)
+2. Guardar el archivo como [docker-compose.yml](900%20Bin/Bases-De-Datos-2/Clases/Parcial1/2-MONGODB/1-teoria/docker-compose/docker-compose.yml)
 3. Ejecutar:
    docker compose up -d --build
 4. Acceder a:

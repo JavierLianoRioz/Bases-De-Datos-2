@@ -22,5 +22,5 @@ Cuando un sistema crece, aparecen limitaciones:
 - Requiere migraciones costosas en tiempo y riesgos.
 - Impacto en sistemas en producción.
 
-![1769778959092](images/2-problemas-sql/1769778959092.png)
+![1769778959092](1769778959092.png)
 

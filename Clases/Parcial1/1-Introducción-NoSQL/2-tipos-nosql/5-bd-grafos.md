@@ -25,5 +25,5 @@ Ejemplos:
 * Neo4j.
 * Amazon Neptune.
   
-  ![1770023375838](images/5-bd-grafos/1770023375838.png)
+  ![1770023375838](1770023375838.png)
 

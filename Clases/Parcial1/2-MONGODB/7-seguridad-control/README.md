@@ -1,6 +1,6 @@
 # Contenido
 
-1. [Introducción.](1-introduccion.md)
+1. [Introducción.](900%20Bin/Bases-De-Datos-2/Clases/Parcial1/2-MONGODB/7-seguridad-control/1-introduccion.md)
 2. [Modelo de autenticación y autorización en MongoDB.](2-modelado-autenticacion.md)
 3. [Creación de usuarios en MongoDB.](3-creacion-usuarios.md)
 4. [Roles predefinidos en MongoDB.](4-roles-predefinidos.md)
@@ -16,5 +16,5 @@
 14. [Observabilidad básica en MongoDB.](14-observabilidad.md)
 15. [Auditoría de operaciones.](15-auditorias.md)
 16. [Buenas prácticas operativas.](16-buenas-practicas.md)
-17. [Conclusión.](17-conclusiones.md)
+17. [Conclusión.](900%20Bin/Bases-De-Datos-2/Clases/Parcial1/2-MONGODB/7-seguridad-control/17-conclusiones.md)
 

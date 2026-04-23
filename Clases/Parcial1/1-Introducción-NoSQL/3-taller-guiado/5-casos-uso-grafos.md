@@ -66,5 +66,5 @@ En grafos:
 
 Ejemplos: Neo4j, JanusGraph.
 
-![1770305868049](images/5-casos-uso-grafos/1770305868049.png)
+![1770305868049](1770305868049.png)
 

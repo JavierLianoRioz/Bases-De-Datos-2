@@ -1,6 +1,6 @@
 # Contenido
 
-1. [Introducción.](1-introduccion.md)
+1. [Introducción.](900%20Bin/Bases-De-Datos-2/Clases/Parcial1/2-MONGODB/3-CRUD-operadores/1-introduccion.md)
 2. [Diferencia entre reemplazo y actualización parcial.](2-reemplazo-actualizacion-parcial.md)
 3. [Operadores Principales.](3-operadores-principales.md)
 4. [Operadores avanzados.](4-operadores-avanzados.md)
