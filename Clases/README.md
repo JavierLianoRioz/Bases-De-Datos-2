@@ -36,7 +36,7 @@
     - [x] [Búsqueda semántica: problema y motivación](Parcial2/4-Vectoriales/1-motivacion)
     - [x] [Embeddings: fundamentos e intuición](Parcial2/4-Vectoriales/2-embeddings)
     - [x] [Búsqueda y estructuras](Parcial2/4-Vectoriales/3-busquedas)
-    - [ ] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
+    - [x] [Pipeline completo](Parcial2/4-Vectoriales/4-pipeline)
     - [ ] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/6-taller)
   - [ ] Examen del Segundo Parcial
   - [ ] Revisión del Examen del Segundo Parcial
